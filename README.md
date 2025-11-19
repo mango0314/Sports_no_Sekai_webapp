@@ -28,7 +28,7 @@ L'obiettivo dell'applicazione è **gestire tornei sportivi** in modo semplice e 
 ## 📦 Installazione e setup
 1. **Clona il repository:**
    ```bash
-   git clone https://github.com/mango0314/SportnoSekai_webapp.git
+   git clone https://github.com/mango0314/Sports_no_Sekai_webapp.git
    Importa il progetto in Eclipse IDE.
 
 2. Configura il server Apache Tomcat → Versione consigliata: 11.
